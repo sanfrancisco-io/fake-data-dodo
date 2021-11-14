@@ -1,0 +1,14 @@
+{
+  "name": "dodoback",
+  "version": "1.0.0",
+  "description": "dodoback",
+  "main": "server",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Aibek <aibekn0@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
